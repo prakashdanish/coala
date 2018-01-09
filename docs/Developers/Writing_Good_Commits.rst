@@ -1,7 +1,7 @@
 How To Write a Good Commit Message
 ==================================
 
-Quick reference __ShortURL: https://coala.io/commit
+Quick reference .. __ShortURL: https://coala.io/commit
 ---------------
 
 Example of a good commit:
