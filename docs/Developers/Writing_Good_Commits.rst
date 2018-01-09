@@ -4,6 +4,9 @@ How To Write a Good Commit Message
 Quick reference
 ---------------
 
+.. class:: right
+Shorturl https://coala.io/commit
+
 Example of a good commit:
 
 ::
