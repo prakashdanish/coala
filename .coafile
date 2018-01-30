@@ -16,13 +16,13 @@ bears = SpaceConsistencyBear, QuotesBear
 language = Python
 preferred_quotation = '
 
-default_actions = *: ApplyPatchAction
+default_actions = **: ApplyPatchAction
 
 [flakes]
 # Do not set default_action to ApplyPatchAction as it may lead to some
 # required imports being removed that might result in coala behaving weirdly.
 
-default_action: *: ShowPatchAction
+default_actions = *: ShowPatchAction
 
 bears = PyUnusedCodeBear
 language = Python
