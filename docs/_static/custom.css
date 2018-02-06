@@ -23,6 +23,26 @@ body {
     font-family: Roboto;
 }
 
+.center a {
+	display: table;
+	width: 100%;
+	text-align: right;
+	text-decoration: none !important;
+	border: none;
+}
+
+.center a:hover {
+	text-decoration: none;
+	border: none;
+}
+
+.center {
+	text-decoration: none;
+	text-align: right;
+	width: 100%;
+	display: inline-block;
+}
+
 h1,h2,h3,h4,h5,h6 {
     font-family: Roboto !important;  /* Ignore CSSLintBear */
     font-weight: 200 !important;  /* Ignore CSSLintBear */

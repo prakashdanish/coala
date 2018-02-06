@@ -3,6 +3,11 @@
 Welcome to the Newcomers' Guide!
 ================================
 
+.. rst-class:: center
+SHORTURL_
+
+.. _SHORTURL: https:///coala.io/newcomer
+
 **DO NOT WORK ON ANY ISSUE WITHOUT ASSIGNMENT!** If you do, someone else might
 work on it as well, and we might have no choice but to reject one of your Pull
 Requests. We hate it if someone's time is wasted. For your own sake, please
